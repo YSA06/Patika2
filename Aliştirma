@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aliştirma1 Sayfasi</title>
+</head>
+<body>
+<harder>
+    <nav>
+            <li>
+                <h1>
+            <a href="index.html">Ana Sayfa</a>
+                </h1>
+            </li>
+    </nav>
+</harder>
+<section>
+
+<article>
+<h2>Bilgi Kosesi</h2>
+<h3>Kediler</h3>
+<img src="img/kedi.jpeg" width="400" height="200"/>
+<p>Kedilerin kalbi insanlara gore 2 kat daha hizli atmaktadir.</p>
+<p>Kediler İNSANLAR GİBİ RÜYA GÖRÜRLER.</p>
+<p>Kediler 200 derecelik görüş açisina sahiptirler.</p>
+<p>Kediler deniz suyunu içebilirler.</p>
+</article>
+<hr>
+<h3>Kopekler</h3>
+<img src="img/kopek.webp" width="400" height="200"/>
+<p>Bir köpeğin burun izi, bir kişinin parmak izi gibi özgündür.</p>
+<p>Amerika'da köpeklerin yüzde kırk beşi sahiplerinin yatağında uyuyor.</p>
+<p>Kopekler ruya gorur</p>
+<p>Tüm köpekler sağır doğar.</p>
+<p>Labrador Retriever köpeği ise Newfoundland'a aittir.</p>
+<hr>
+</section>
+
+
+
+    
+</body>
+</html>
